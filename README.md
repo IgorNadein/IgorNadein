@@ -1,4 +1,4 @@
-**English** · [Русский](https://github.com/IgorNadein/IgorNadein/blob/main/README.ru.md) · [Deutsch](https://github.com/IgorNadein/IgorNadein/blob/main/README.de.md)
+Language: **English** | [Русский](https://github.com/IgorNadein/IgorNadein/blob/main/README.ru.md) | [Deutsch](https://github.com/IgorNadein/IgorNadein/blob/main/README.de.md) | [Español](https://github.com/IgorNadein/IgorNadein/blob/main/README.es.md)
 
 # Hi, I'm Igor Nadein
 
