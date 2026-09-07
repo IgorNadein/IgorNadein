@@ -21,6 +21,12 @@ Language: [English](https://github.com/IgorNadein/IgorNadein/blob/main/README.md
 
 ## Избранные публичные проекты
 
+### [Django Nadein Board](https://github.com/IgorNadein/django-nadein-board)
+
+Самостоятельный пакет досок задач для Django со встроенным интерфейсом на React/TypeScript. Колонки и дорожки с перетаскиванием, управление доступом, защищённые вложения, чек-листы и автоматизация процессов. Использует пользователей и сессии Django-проекта. Есть автоматические тесты, GitHub Actions и локальная демонстрация.
+
+[![Django Nadein Board workspace](https://raw.githubusercontent.com/IgorNadein/django-nadein-board/main/docs/images/workspace.png)](https://github.com/IgorNadein/django-nadein-board)
+
 ### [LogStorm](https://github.com/IgorNadein/LogStorm)
 
 Система на Python для обработки журналов событий контроля доступа. Читает данные из CSV, NDJSON и SQLite, нормализует идентификаторы, анализирует посещаемость и формирует отчёты Excel. В проекте есть CLI, HTTP API, тесты pytest и синтетические демонстрационные данные.

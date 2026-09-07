@@ -21,6 +21,12 @@ Mein Schwerpunkt ist die Backend-Entwicklung. Daneben entwickle ich Weboberfläc
 
 ## Ausgewählte öffentliche Projekte
 
+### [Django Nadein Board](https://github.com/IgorNadein/django-nadein-board)
+
+Eigenständige Aufgabenboards für Django mit integrierter React-/TypeScript-Oberfläche. Mit Drag-and-drop für Spalten und Bahnen, Zugriffssteuerung, geschützten Anhängen, Checklisten und Workflow-Automatisierung. Nutzt vorhandene Django-Benutzer und Sitzungen. Enthält automatisierte Tests, GitHub Actions und eine lokale Demo.
+
+[![Django Nadein Board workspace](https://raw.githubusercontent.com/IgorNadein/django-nadein-board/main/docs/images/workspace.png)](https://github.com/IgorNadein/django-nadein-board)
+
 ### [LogStorm](https://github.com/IgorNadein/LogStorm)
 
 Ein Python-System zur Verarbeitung von Ereignisprotokollen aus Zutrittskontrollsystemen. Es liest CSV-, NDJSON- und SQLite-Daten, vereinheitlicht Kennungen, analysiert Anwesenheitsdaten und erstellt Excel-Berichte. Das Projekt umfasst eine CLI, eine HTTP-API, pytest-Tests und synthetische Demodaten.
