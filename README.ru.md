@@ -8,9 +8,13 @@ Language: [English](https://github.com/IgorNadein/IgorNadein/blob/main/README.md
 
 До перехода в разработку я работал в геофизике. Этот опыт помогает разбираться в технических данных, выяснять причины противоречивых результатов и понимать, как программы используются в реальной работе.
 
+Моё основное направление — backend. Также разрабатываю веб-интерфейсы и Android-приложения, работаю с нейросетями и AI-инструментами в собственных проектах. Фронтенд дополняет мою backend-разработку, и я продолжаю развивать навыки в этой области.
+
 ## С чем работаю
 
 - **Backend:** Python, Django, Django REST Framework, FastAPI
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS; TanStack Query и Zustand
+- **Мобильная разработка:** Kotlin, Jetpack Compose, Room/SQLite, WorkManager; Python/Kivy
 - **Данные и фоновые задачи:** PostgreSQL, Redis, Celery
 - **Разработка и развёртывание:** Docker, Linux, Git, pytest
 - **Основные направления:** интеграции API, обработка данных, внутренние инструменты и автоматизация
@@ -24,6 +28,14 @@ Language: [English](https://github.com/IgorNadein/IgorNadein/blob/main/README.md
 ### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
 
 Платформа управления обучением на Django: создание курсов, отслеживание прогресса учащихся, сертификаты и интеграция с Telegram. Для фоновых задач используется Celery, для развёртывания — Docker.
+
+### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
+
+Нативная Android CRM для частных специалистов: клиенты, записи, услуги и финансы, интеграция с контактами и календарём, резервное копирование и импорт. Kotlin, Jetpack Compose, Room и WorkManager; приложение рассчитано прежде всего на работу без интернета.
+
+### [FitRegimen](https://github.com/IgorNadein/FitRegimen)
+
+Android-проект на основе FitoTrack. Моё расширение добавляет офлайн-планировщик тренировочных программ и связывает записанные тренировки с планом для отслеживания его выполнения. Также приложение формирует запросы для AI-чат-ботов с параметрами пользователя и JSON-схемой программы, чтобы полученный план можно было импортировать. Базовый трекинг тренировок предоставлен FitoTrack, авторство исходного проекта сохранено.
 
 ### [Palenok](https://github.com/IgorNadein/Palenok)
 

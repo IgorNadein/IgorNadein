@@ -8,9 +8,13 @@ Seit Juni 2025 arbeite ich als Python Backend / RPA Developer und entwickle und 
 
 Vor meinem Wechsel in die Softwareentwicklung habe ich in der Geophysik gearbeitet. Diese Erfahrung hilft mir, technische Daten zu verstehen, widersprüchliche Ergebnisse zu untersuchen und nachzuvollziehen, wie Software in der Praxis eingesetzt wird.
 
+Mein Schwerpunkt ist die Backend-Entwicklung. Daneben entwickle ich Weboberflächen und Android-Apps und arbeite in eigenen Projekten mit neuronalen Netzen und KI-Werkzeugen. Die Frontend-Entwicklung ergänzt meine Backend-Arbeit; meine Kenntnisse in diesem Bereich baue ich weiter aus.
+
 ## Technologien und Schwerpunkte
 
 - **Backend:** Python, Django, Django REST Framework, FastAPI
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS; TanStack Query und Zustand
+- **Mobile Entwicklung:** Kotlin, Jetpack Compose, Room/SQLite, WorkManager; Python/Kivy
 - **Daten und Hintergrundaufgaben:** PostgreSQL, Redis, Celery
 - **Entwicklung und Bereitstellung:** Docker, Linux, Git, pytest
 - **Schwerpunkte:** API-Integrationen, Datenverarbeitung, interne Anwendungen und Automatisierung
@@ -24,6 +28,14 @@ Ein Python-System zur Verarbeitung von Ereignisprotokollen aus Zutrittskontrolls
 ### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
 
 Eine Lernplattform auf Basis von Django mit Kurserstellung, Lernfortschritt, Zertifikaten und Telegram-Integration. Celery übernimmt Hintergrundaufgaben; Docker dient der Bereitstellung.
+
+### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
+
+Native Android-CRM für selbstständige Dienstleister: Kunden, Termine, Leistungen und Finanzdaten, Kontakt- und Kalenderintegration sowie Datensicherung und Import. Entwickelt mit Kotlin, Jetpack Compose, Room und WorkManager, mit Schwerpunkt auf der Offline-Nutzung.
+
+### [FitRegimen](https://github.com/IgorNadein/FitRegimen)
+
+Ein Android-Projekt auf Basis von FitoTrack. Meine Erweiterung ergänzt einen Offline-Planer für Trainingsprogramme und verknüpft aufgezeichnete Trainingseinheiten mit dem Plan, um dessen Einhaltung zu verfolgen. Die App erstellt außerdem Prompts für KI-Chatbots mit Nutzerparametern und dem JSON-Schema des Programms, sodass sich der erzeugte Plan importieren lässt. Die grundlegende Trainingsaufzeichnung stammt von FitoTrack; die ursprüngliche Urheberschaft bleibt ausgewiesen.
 
 ### [Palenok](https://github.com/IgorNadein/Palenok)
 

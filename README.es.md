@@ -8,9 +8,13 @@ Desde junio de 2025 trabajo como Python Backend / RPA Developer, desarrollando y
 
 Antes de pasar al desarrollo de software, trabajé en geofísica. Esa experiencia me ayuda a comprender datos técnicos, investigar resultados contradictorios y entender cómo se utiliza el software en el trabajo real.
 
+Mi especialidad principal es el backend. También desarrollo interfaces web y aplicaciones Android, y trabajo con redes neuronales y herramientas de IA en mis proyectos personales. El frontend complementa mi trabajo de backend y sigo ampliando mis conocimientos en esta área.
+
 ## Tecnologías y áreas de trabajo
 
 - **Backend:** Python, Django, Django REST Framework, FastAPI
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS; TanStack Query y Zustand
+- **Desarrollo móvil:** Kotlin, Jetpack Compose, Room/SQLite, WorkManager; Python/Kivy
 - **Datos y tareas en segundo plano:** PostgreSQL, Redis, Celery
 - **Desarrollo y despliegue:** Docker, Linux, Git, pytest
 - **Áreas principales:** integraciones de API, procesamiento de datos, herramientas internas y automatización
@@ -24,6 +28,14 @@ Sistema en Python para procesar registros de eventos de control de acceso. Lee d
 ### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
 
 Plataforma de gestión del aprendizaje basada en Django con creación de cursos, seguimiento del progreso de los estudiantes, certificados e integración con Telegram. Utiliza Celery para las tareas en segundo plano y Docker para el despliegue.
+
+### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
+
+CRM nativo para Android dirigido a profesionales independientes: clientes, citas, servicios y finanzas, integración con contactos y calendario, copias de seguridad e importación. Desarrollado con Kotlin, Jetpack Compose, Room y WorkManager, con prioridad al funcionamiento sin conexión.
+
+### [FitRegimen](https://github.com/IgorNadein/FitRegimen)
+
+Proyecto Android basado en FitoTrack. Mi extensión añade un planificador de programas de entrenamiento sin conexión y vincula las sesiones registradas con el plan para seguir su cumplimiento. La aplicación también prepara instrucciones para chatbots de IA con los parámetros del usuario y el esquema JSON del programa, para poder importar el plan resultante. El seguimiento básico de los entrenamientos procede de FitoTrack y se mantiene la atribución al proyecto original.
 
 ### [Palenok](https://github.com/IgorNadein/Palenok)
 
