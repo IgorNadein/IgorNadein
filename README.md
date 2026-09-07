@@ -1,3 +1,5 @@
+**English** · [Русский](https://github.com/IgorNadein/IgorNadein/blob/main/README.ru.md) · [Deutsch](https://github.com/IgorNadein/IgorNadein/blob/main/README.de.md)
+
 # Hi, I'm Igor Nadein
 
 **Python backend developer focused on APIs, integrations and workflow automation.**
