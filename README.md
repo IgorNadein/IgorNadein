@@ -25,8 +25,6 @@ Backend is my main focus. I also build web interfaces and Android apps, and work
 
 Standalone task boards for Django with a bundled React/TypeScript interface. Includes drag-and-drop columns and lanes, access controls, private attachments, checklists and workflow automations. Integrates with existing Django users and sessions. Includes automated tests, GitHub Actions and a local demo.
 
-[![Django Nadein Board workspace](https://raw.githubusercontent.com/IgorNadein/django-nadein-board/main/docs/images/workspace.png)](https://github.com/IgorNadein/django-nadein-board)
-
 ### [LogStorm](https://github.com/IgorNadein/LogStorm)
 Python system for processing access-control event logs. Reads CSV, NDJSON and SQLite sources, normalizes identifiers, analyzes attendance and generates Excel reports. Includes a CLI, HTTP API, pytest tests and synthetic demo data.
 

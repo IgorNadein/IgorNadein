@@ -25,8 +25,6 @@ Mi especialidad principal es el backend. También desarrollo interfaces web y ap
 
 Tableros de tareas independientes para Django con interfaz integrada en React/TypeScript. Incluye columnas y carriles con arrastrar y soltar, control de acceso, archivos protegidos, listas de verificación y automatización de procesos. Utiliza los usuarios y sesiones de Django. Incluye pruebas automatizadas, GitHub Actions y una demostración local.
 
-[![Django Nadein Board workspace](https://raw.githubusercontent.com/IgorNadein/django-nadein-board/main/docs/images/workspace.png)](https://github.com/IgorNadein/django-nadein-board)
-
 ### [LogStorm](https://github.com/IgorNadein/LogStorm)
 
 Sistema en Python para procesar registros de eventos de control de acceso. Lee datos de CSV, NDJSON y SQLite, normaliza identificadores, analiza la asistencia y genera informes de Excel. Incluye una CLI, una API HTTP, pruebas con pytest y datos sintéticos de demostración.
