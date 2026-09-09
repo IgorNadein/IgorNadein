@@ -8,7 +8,7 @@ Since June 2025, I've worked as a Python Backend / RPA Developer, building and s
 
 Before moving into development, I worked in geophysics. That background is useful when working with technical data, investigating inconsistent results and understanding how software fits into real operations.
 
-Backend is my main focus. I also build web interfaces and Android apps, and work with neural networks and AI tools in my personal projects. Frontend development complements my backend work, and I continue to develop that side of my skills.
+Alongside Python backend systems, I build web interfaces with React/Next.js and Android apps with Kotlin/Jetpack Compose. I use AI tools for implementation, refactoring and tests, and experiment with pretrained image-segmentation models.
 
 ## What I work with
 

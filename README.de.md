@@ -8,7 +8,7 @@ Seit Juni 2025 arbeite ich als Python Backend / RPA Developer und entwickle und 
 
 Vor meinem Wechsel in die Softwareentwicklung habe ich in der Geophysik gearbeitet. Diese Erfahrung hilft mir, technische Daten zu verstehen, widersprüchliche Ergebnisse zu untersuchen und nachzuvollziehen, wie Software in der Praxis eingesetzt wird.
 
-Mein Schwerpunkt ist die Backend-Entwicklung. Daneben entwickle ich Weboberflächen und Android-Apps und arbeite in eigenen Projekten mit neuronalen Netzen und KI-Werkzeugen. Die Frontend-Entwicklung ergänzt meine Backend-Arbeit; meine Kenntnisse in diesem Bereich baue ich weiter aus.
+Neben Python-Backend-Systemen entwickle ich Weboberflächen mit React/Next.js und Android-Apps mit Kotlin/Jetpack Compose. Ich nutze KI-Werkzeuge für Implementierung, Refactoring und Tests und experimentiere mit vortrainierten Modellen zur Bildsegmentierung.
 
 ## Technologien und Schwerpunkte
 

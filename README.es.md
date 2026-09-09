@@ -8,7 +8,7 @@ Desde junio de 2025 trabajo como Python Backend / RPA Developer, desarrollando y
 
 Antes de pasar al desarrollo de software, trabajé en geofísica. Esa experiencia me ayuda a comprender datos técnicos, investigar resultados contradictorios y entender cómo se utiliza el software en el trabajo real.
 
-Mi especialidad principal es el backend. También desarrollo interfaces web y aplicaciones Android, y trabajo con redes neuronales y herramientas de IA en mis proyectos personales. El frontend complementa mi trabajo de backend y sigo ampliando mis conocimientos en esta área.
+Además de sistemas backend en Python, desarrollo interfaces web con React/Next.js y aplicaciones Android con Kotlin/Jetpack Compose. Utilizo herramientas de IA para implementación, refactorización y pruebas, y experimento con modelos preentrenados de segmentación de imágenes.
 
 ## Tecnologías y áreas de trabajo
 
