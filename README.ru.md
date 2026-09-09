@@ -29,9 +29,9 @@ Language: [English](https://github.com/IgorNadein/IgorNadein/blob/main/README.md
 
 Система на Python для обработки журналов событий контроля доступа. Читает данные из CSV, NDJSON и SQLite, нормализует идентификаторы, анализирует посещаемость и формирует отчёты Excel. В проекте есть CLI, HTTP API, тесты pytest и синтетические демонстрационные данные.
 
-### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
+### [Django Nadein Notifications](https://github.com/IgorNadein/django-nadein-notifications)
 
-Платформа управления обучением на Django: создание курсов, отслеживание прогресса учащихся, сертификаты и интеграция с Telegram. Для фоновых задач используется Celery, для развёртывания — Docker.
+Самостоятельный центр уведомлений для Django со встроенным интерфейсом React/TypeScript: фильтры событий, статусы прочтения, массовые действия, настройки доставки и тихие часы. Поддерживает email, опциональные Web Push, Celery и защищённые обновления через WebSocket. Проверены изоляция пользователей и установка в чистый Django-проект.
 
 ### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
 

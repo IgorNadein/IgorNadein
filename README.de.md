@@ -29,9 +29,9 @@ Eigenständige Aufgabenboards für Django mit integrierter React-/TypeScript-Obe
 
 Ein Python-System zur Verarbeitung von Ereignisprotokollen aus Zutrittskontrollsystemen. Es liest CSV-, NDJSON- und SQLite-Daten, vereinheitlicht Kennungen, analysiert Anwesenheitsdaten und erstellt Excel-Berichte. Das Projekt umfasst eine CLI, eine HTTP-API, pytest-Tests und synthetische Demodaten.
 
-### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
+### [Django Nadein Notifications](https://github.com/IgorNadein/django-nadein-notifications)
 
-Eine Lernplattform auf Basis von Django mit Kurserstellung, Lernfortschritt, Zertifikaten und Telegram-Integration. Celery übernimmt Hintergrundaufgaben; Docker dient der Bereitstellung.
+Eigenständiger Benachrichtigungseingang für Django mit gebündelter React/TypeScript-Oberfläche. Ereignisfilter, Gelesen/Ungelesen-Status, Sammelaktionen, Zustellungseinstellungen und Ruhezeiten. Unterstützt E-Mail sowie optional Web Push, Celery und authentifizierte WebSocket-Updates. Benutzerisolation und Installation in einem unabhängigen Django-Projekt sind getestet.
 
 ### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
 

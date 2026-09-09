@@ -28,8 +28,9 @@ Standalone task boards for Django with a bundled React/TypeScript interface. Inc
 ### [LogStorm](https://github.com/IgorNadein/LogStorm)
 Python system for processing access-control event logs. Reads CSV, NDJSON and SQLite sources, normalizes identifiers, analyzes attendance and generates Excel reports. Includes a CLI, HTTP API, pytest tests and synthetic demo data.
 
-### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
-Django learning management platform with course creation, student progress, certificates and Telegram integration. Uses Celery for background work and Docker for deployment.
+### [Django Nadein Notifications](https://github.com/IgorNadein/django-nadein-notifications)
+
+A standalone Django notification inbox with a bundled React/TypeScript interface. Includes event filters, read/unread state, bulk actions, delivery preferences and quiet hours. Supports email, optional Web Push, Celery and authenticated WebSocket updates. Tested for per-user access isolation and installation in a clean Django host.
 
 ### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
 

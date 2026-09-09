@@ -29,9 +29,9 @@ Tableros de tareas independientes para Django con interfaz integrada en React/Ty
 
 Sistema en Python para procesar registros de eventos de control de acceso. Lee datos de CSV, NDJSON y SQLite, normaliza identificadores, analiza la asistencia y genera informes de Excel. Incluye una CLI, una API HTTP, pruebas con pytest y datos sintéticos de demostración.
 
-### [CourseMaster](https://github.com/IgorNadein/CourseMaster)
+### [Django Nadein Notifications](https://github.com/IgorNadein/django-nadein-notifications)
 
-Plataforma de gestión del aprendizaje basada en Django con creación de cursos, seguimiento del progreso de los estudiantes, certificados e integración con Telegram. Utiliza Celery para las tareas en segundo plano y Docker para el despliegue.
+Centro de notificaciones independiente para Django con interfaz React/TypeScript incluida: filtros, estados de lectura, acciones en grupo, preferencias de entrega y horas de silencio. Admite correo e integraciones opcionales con Web Push, Celery y WebSocket autenticado. Incluye pruebas de aislamiento entre usuarios y de instalación en un proyecto Django limpio.
 
 ### [12609 — Offline Service CRM](https://github.com/IgorNadein/12609)
 
