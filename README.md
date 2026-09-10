@@ -47,4 +47,4 @@ A project connecting geoscience and software: an application for analyzing rock-
 
 I'm interested in Python backend, integration and automation roles, including opportunities with relocation support.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/igor-nadein)
+[Email me](mailto:nadein.igor.vladimirovich@gmail.com)

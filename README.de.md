@@ -49,4 +49,4 @@ Ein Projekt an der Schnittstelle von Geowissenschaften und Softwareentwicklung: 
 
 Ich interessiere mich für Stellen in der Python-Backend-Entwicklung, Integration und Automatisierung, auch mit Unterstützung beim Umzug ins Ausland.
 
-[Kontakt über LinkedIn](https://www.linkedin.com/in/igor-nadein)
+[E-Mail senden](mailto:nadein.igor.vladimirovich@gmail.com)

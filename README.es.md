@@ -49,4 +49,4 @@ Un proyecto que conecta las geociencias y el desarrollo de software: una aplicac
 
 Me interesan puestos de desarrollo backend con Python, integración y automatización, incluidas oportunidades con apoyo para trasladarme al extranjero.
 
-[Contacta conmigo en LinkedIn](https://www.linkedin.com/in/igor-nadein)
+[Escríbeme por correo](mailto:nadein.igor.vladimirovich@gmail.com)

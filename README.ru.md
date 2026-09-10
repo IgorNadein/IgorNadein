@@ -49,4 +49,4 @@ Android-проект на основе FitoTrack. Моё расширение д
 
 Рассматриваю позиции в Python backend-разработке, интеграциях и автоматизации, в том числе с поддержкой релокации.
 
-[Связаться со мной в LinkedIn](https://www.linkedin.com/in/igor-nadein)
+[Написать мне](mailto:nadein.igor.vladimirovich@gmail.com)
